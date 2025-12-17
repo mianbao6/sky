@@ -12,6 +12,7 @@ public class Main {
         int c;
         int d;
         int e;
+        System.out.println("1234");
 
     }
 }
